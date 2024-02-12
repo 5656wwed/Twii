@@ -2,3 +2,4 @@ pyrogram
 Django
 django-tailwind
 django_browser_reload
+tweepy

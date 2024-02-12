@@ -1,2 +1,3 @@
 pyrogram
 Django
+django-tailwind
